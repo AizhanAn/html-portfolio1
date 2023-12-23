@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aizhan An'n Portfolio</title>
+ </head>
+ <h2>Aizhan An'n Portfolio</h2>
+ <body>
+    <h3>I'm a web developer</h3>
+    <hr />
+    <h2><a href="/project burger/burger/movie-ranking.html"> Movie Ranking Project</div></a></h2>
+    <h2>The Best Movie According to Angela</h2>
+    <h3>My top 3 movies of all-time</h3>
+    <hr />
+    <h4>1........</h4>
+    <h>..................</h>
+    <h4>2........</h4>
+    <h>..........</h>
+    <h4>3.........</h4>
+    <h>............</h>
+    <h2><a href="/project burger/burger/birthday.png"> Birthday Ranking Project</a></h2>
+    <img src="./bithday2.png">
+    <hr />
+    <a href="/project burger/burger/contact.html">Contact</a>
+    
+   </body>
+ </html>
